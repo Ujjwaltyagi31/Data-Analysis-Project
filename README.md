@@ -54,5 +54,10 @@ The dataset contains customer data including demographics, subscription details,
 ├── dashboards/  
 │   ├── Customer Churn Analysis Dashboard.pbix # Power BI file 
 ├── README.md                    # This file  
+```
 
-[Bank Customer Churn Prediction.csv](https://github.com/user-attachments/files/18385120/Bank.Customer.Churn.Prediction.csv)
+## Contact
+For questions or collaborations, reach out at:
+Email: ujjwalt0316@gmail.com
+LinkedIn: www.linkedin.com/in/ujjwal-tyagi0316
+
