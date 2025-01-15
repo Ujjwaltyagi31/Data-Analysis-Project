@@ -7,41 +7,40 @@ Welcome to the Data Analysis Projects repository! This repository showcases vari
 These projects aim to demonstrate skills in data cleaning, transformation, visualization, and storytelling and to derive actionable insights for businesses.  
 
 ---
+## PROJECTS ##
+---
+## 1. Customer Churn Analysis Dashboard. 
 
-# PROJECTS
-
-# 1. Customer Churn Analysis Dashboard. 
-
-## Tools Used:- 
+### Tools Used:- 
 - Microsoft Excel (for data cleaning and transformation)  
 - Power BI (for interactive visualization and dashboard creation)  
 
-## Objective:-  
+### Objective:-  
 This project aims to analyze customer churn patterns to help businesses understand why customers leave and how to retain them.  
 
-## Features of the Dashboard:- 
+### Features of the Dashboard:- 
 - Key performance indicators (KPIs) include churn rate, customer retention rate, and revenue loss.  
 - Interactive filters to explore churn metrics by demographics, geography, and time.  
 - Predictive insights based on historical trends.  
 - Visualizations include bar charts, heat maps, and trend lines for easier understanding of patterns.  
 
-## Dataset:-  
+### Dataset:-  
 The dataset contains customer data including demographics, subscription details, usage behavior, and feedback.  
 
-## Insights Derived:-  
+### Insights Derived:-  
 - Customer segments with the highest churn rates.  
 - Behavioral patterns associated with churn.  
 - Potential strategies for improving customer retention.  
 
 ---
 
-# 2. HR Data Analysis Dashboard  
+## 2. HR Data Analysis Dashboard  
 
-## Objective:-
+### Objective:-
 Objective of this project is to analyze HR data to gain meaningful insights into employee distribution, salaries, and other key metrics. The dashboard was created using Excel for data preparation and Power BI for visualization. This tool provides HR professionals with actionable information to support strategic decision-making.
 
 
-## Features:-
+### Features:-
 1. **Total Headcount**: Displays the total number of employees (161) in the organization.
 2. **Gender Distribution**: A pie chart represents the distribution of male (45.4%) and female (54.6%) employees.
 3. **Job Title Analysis**:
@@ -56,7 +55,7 @@ Objective of this project is to analyze HR data to gain meaningful insights into
 6. **Interactive Filters**: Allows users to filter the data by job title for detailed insights.
 
 
-## Insights Derived:-
+### Insights Derived:-
 1. **Headcount Distribution**:
    - The highest number of employees work as "Packaging Associates" (22), followed by "Production Operators" (20).
    - The least represented roles are "Marketing Manager" and "Marketing Specialist," with a headcount of 10 each.
@@ -77,7 +76,7 @@ Objective of this project is to analyze HR data to gain meaningful insights into
    - Employees with lower leave balances tend to have higher salaries, indicating potential correlations with seniority or workload.
 
      
-## Tools and Technologies:-
+### Tools and Technologies:-
 - **Data Source**: Microsoft Excel (for data cleaning and transformation)  
 - **Visualization Tool**: Power BI (for interactive visualization and dashboard creation)  
 
