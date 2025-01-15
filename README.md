@@ -1,4 +1,4 @@
-### Data Analysis Projects Repository  
+# Data Analysis Projects Repository  
 
 ## Overview  
 
@@ -8,26 +8,27 @@ These projects aim to demonstrate skills in data cleaning, transformation, visua
 
 ---
 
-## Projects 
+# PROJECTS
 
-# 1. Customer Churn Analysis Dashboard  
-**Tools Used:**  
+# 1. Customer Churn Analysis Dashboard. 
+
+## Tools Used:- 
 - Microsoft Excel (for data cleaning and transformation)  
 - Power BI (for interactive visualization and dashboard creation)  
 
-**Objective:**  
+## Objective:-  
 This project aims to analyze customer churn patterns to help businesses understand why customers leave and how to retain them.  
 
-**Features of the Dashboard:**  
+## Features of the Dashboard:- 
 - Key performance indicators (KPIs) include churn rate, customer retention rate, and revenue loss.  
 - Interactive filters to explore churn metrics by demographics, geography, and time.  
 - Predictive insights based on historical trends.  
 - Visualizations include bar charts, heat maps, and trend lines for easier understanding of patterns.  
 
-**Dataset:**  
+## Dataset:-  
 The dataset contains customer data including demographics, subscription details, usage behavior, and feedback.  
 
-**Insights Derived:**  
+## Insights Derived:-  
 - Customer segments with the highest churn rates.  
 - Behavioral patterns associated with churn.  
 - Potential strategies for improving customer retention.  
@@ -76,9 +77,10 @@ Objective of this project is to analyze HR data to gain meaningful insights into
    - Employees with lower leave balances tend to have higher salaries, indicating potential correlations with seniority or workload.
 
      
-## Tools and Technologies
+## Tools and Technologies:-
 - **Data Source**: Microsoft Excel (for data cleaning and transformation)  
 - **Visualization Tool**: Power BI (for interactive visualization and dashboard creation)  
+
 
 
 This dashboard offers comprehensive insights that are crucial for workforce planning, salary benchmarking, and understanding demographic patterns within the organization.
