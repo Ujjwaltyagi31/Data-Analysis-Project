@@ -1,4 +1,4 @@
-# Data Analysis Projects Repository  
+### Data Analysis Projects Repository  
 
 ## Overview  
 
@@ -10,7 +10,7 @@ These projects aim to demonstrate skills in data cleaning, transformation, visua
 
 ## Projects 
 
-### 1. Customer Churn Analysis Dashboard  
+# 1. Customer Churn Analysis Dashboard  
 **Tools Used:**  
 - Microsoft Excel (for data cleaning and transformation)  
 - Power BI (for interactive visualization and dashboard creation)  
@@ -34,7 +34,7 @@ The dataset contains customer data including demographics, subscription details,
 
 ---
 
-### 2. HR Data Analysis Dashboard  
+# 2. HR Data Analysis Dashboard  
 
 ## Objective:-
 Objective of this project is to analyze HR data to gain meaningful insights into employee distribution, salaries, and other key metrics. The dashboard was created using Excel for data preparation and Power BI for visualization. This tool provides HR professionals with actionable information to support strategic decision-making.
